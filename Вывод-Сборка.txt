@@ -1,0 +1,5 @@
+﻿1>------ Сборка начата: проект: student v1, Конфигурация: Debug Any CPU ------
+1>C:\Users\User\Desktop\програмування додатково\student v1\student v1\Program.cs(86,30,86,34): warning CS0649: Полю "Exam.exam" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null.
+1>C:\Users\User\Desktop\програмування додатково\student v1\student v1\Program.cs(26,32,26,38): warning CS0649: Полю "Person.person" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null.
+1>  student v1 -> C:\Users\User\Desktop\програмування додатково\student v1\student v1\bin\Debug\student v1.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
